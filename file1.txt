@@ -1,1 +1,2 @@
 this 文档 is used to test branch.
+edited by branch2.
